@@ -1,0 +1,11 @@
+/* Example CSS for custom styling */
+.audio-recorder-container {
+    text-align: center;
+  }
+  
+  .recording-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
